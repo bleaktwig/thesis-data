@@ -1,0 +1,1 @@
+clas12-workflow.py --model decrec --phaseSize 1 --outDir "/volatile/clas12/benkel/data/out" --logDir "/volatile/clas12/benkel/data/log" --runGroup rge --tag fmtacc --inputs "/mss/clas12/rg-f/data" --runs 12933 --coatjava 8.2.2 --reconYaml "/work/clas12/users/benkel/data/rge/rge-fmtacc.yaml" --threads 16
